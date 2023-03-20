@@ -24,7 +24,7 @@ int main()
 		cout << "1. Luas Persegi " << endl;
 		cout << "2. Luas Lingkaran " << endl;
 		cout << "3. Luas Segitiga " << endl;
-		cout << "Exit " << endl;
+		cout << "4. Exit " << endl;
 		cin >> pilihan;
 
 		switch (pilihan)
