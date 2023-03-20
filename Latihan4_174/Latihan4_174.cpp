@@ -30,7 +30,8 @@ int main()
 		switch (pilihan)
 		{
 		case 1:
-			cout << Masukan Panjang = 
+			cout << " Masukan Panjang = ";
+
 		}
 	}
 }
